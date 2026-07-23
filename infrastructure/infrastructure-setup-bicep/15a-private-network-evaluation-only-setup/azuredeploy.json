@@ -4,8 +4,8 @@
   "metadata": {
     "_generator": {
       "name": "bicep",
-      "version": "0.44.1.10279",
-      "templateHash": "9005518444680591480"
+      "version": "0.45.15.27210",
+      "templateHash": "17206828303029933933"
     }
   },
   "parameters": {
@@ -274,8 +274,8 @@
           "metadata": {
             "_generator": {
               "name": "bicep",
-              "version": "0.44.1.10279",
-              "templateHash": "8059749215340377460"
+              "version": "0.45.15.27210",
+              "templateHash": "14279719089132396366"
             }
           },
           "parameters": {
@@ -388,8 +388,8 @@
                   "metadata": {
                     "_generator": {
                       "name": "bicep",
-                      "version": "0.44.1.10279",
-                      "templateHash": "1661897848166677911"
+                      "version": "0.45.15.27210",
+                      "templateHash": "3064118561556495645"
                     }
                   },
                   "parameters": {
@@ -561,8 +561,8 @@
                   "metadata": {
                     "_generator": {
                       "name": "bicep",
-                      "version": "0.44.1.10279",
-                      "templateHash": "13739336036803555258"
+                      "version": "0.45.15.27210",
+                      "templateHash": "11305798029781350182"
                     }
                   },
                   "parameters": {
@@ -651,8 +651,8 @@
                           "metadata": {
                             "_generator": {
                               "name": "bicep",
-                              "version": "0.44.1.10279",
-                              "templateHash": "4074506216227302224"
+                              "version": "0.45.15.27210",
+                              "templateHash": "15853563337981790874"
                             }
                           },
                           "parameters": {
@@ -734,8 +734,8 @@
                           "metadata": {
                             "_generator": {
                               "name": "bicep",
-                              "version": "0.44.1.10279",
-                              "templateHash": "4074506216227302224"
+                              "version": "0.45.15.27210",
+                              "templateHash": "15853563337981790874"
                             }
                           },
                           "parameters": {
@@ -909,8 +909,8 @@
           "metadata": {
             "_generator": {
               "name": "bicep",
-              "version": "0.44.1.10279",
-              "templateHash": "8297556890969361359"
+              "version": "0.45.15.27210",
+              "templateHash": "18223658257941750654"
             }
           },
           "parameters": {
@@ -1043,8 +1043,8 @@
           "metadata": {
             "_generator": {
               "name": "bicep",
-              "version": "0.44.1.10279",
-              "templateHash": "18428162180343544793"
+              "version": "0.45.15.27210",
+              "templateHash": "2985370657943566793"
             }
           },
           "parameters": {
@@ -1136,8 +1136,8 @@
           "metadata": {
             "_generator": {
               "name": "bicep",
-              "version": "0.44.1.10279",
-              "templateHash": "3194425532011524628"
+              "version": "0.45.15.27210",
+              "templateHash": "17518060742315154441"
             }
           },
           "parameters": {
@@ -1273,8 +1273,8 @@
           "metadata": {
             "_generator": {
               "name": "bicep",
-              "version": "0.44.1.10279",
-              "templateHash": "11525768866797919522"
+              "version": "0.45.15.27210",
+              "templateHash": "6800464089851756825"
             }
           },
           "parameters": {
@@ -1616,8 +1616,8 @@
           "metadata": {
             "_generator": {
               "name": "bicep",
-              "version": "0.44.1.10279",
-              "templateHash": "4699943037135843809"
+              "version": "0.45.15.27210",
+              "templateHash": "11227409249526433518"
             }
           },
           "parameters": {
@@ -1857,8 +1857,8 @@
           "metadata": {
             "_generator": {
               "name": "bicep",
-              "version": "0.44.1.10279",
-              "templateHash": "14164971324918652057"
+              "version": "0.45.15.27210",
+              "templateHash": "6507454708475270270"
             }
           },
           "parameters": {
@@ -1970,8 +1970,8 @@
           "metadata": {
             "_generator": {
               "name": "bicep",
-              "version": "0.44.1.10279",
-              "templateHash": "3421890076151369374"
+              "version": "0.45.15.27210",
+              "templateHash": "8324674225619584446"
             }
           },
           "parameters": {
@@ -2025,8 +2025,8 @@
           "metadata": {
             "_generator": {
               "name": "bicep",
-              "version": "0.44.1.10279",
-              "templateHash": "5322883668661759738"
+              "version": "0.45.15.27210",
+              "templateHash": "299024402709667399"
             }
           },
           "parameters": {
@@ -2081,8 +2081,8 @@
           "metadata": {
             "_generator": {
               "name": "bicep",
-              "version": "0.44.1.10279",
-              "templateHash": "12566418346689420792"
+              "version": "0.45.15.27210",
+              "templateHash": "4339086698972698908"
             }
           },
           "parameters": {
@@ -2148,8 +2148,8 @@
           "metadata": {
             "_generator": {
               "name": "bicep",
-              "version": "0.44.1.10279",
-              "templateHash": "1735356790233715529"
+              "version": "0.45.15.27210",
+              "templateHash": "18132495627249717488"
             }
           },
           "parameters": {
